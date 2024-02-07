@@ -1,3 +1,13 @@
 body {
-    background-color: red;
+	background-color: red;
+}
+
+.footer {
+	display: flex;
+	justify-content: space-around;
+}
+
+.footer-image img {
+	height: 150px;
+	width: auto;
 }
